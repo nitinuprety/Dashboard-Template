@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "themify-icons",
+        "scope": null,
+        "escapedName": "themify-icons",
+        "name": "themify-icons",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "F:\\Content\\Raw Task"
+    ]
+  ],
+  "_from": "themify-icons@latest",
+  "_id": "themify-icons@1.0.0",
+  "_inCache": true,
+  "_location": "/themify-icons",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "melbourne2991",
+    "email": "xxxxxxx@gmail.com"
+  },
+  "_npmVersion": "2.10.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "themify-icons",
+    "scope": null,
+    "escapedName": "themify-icons",
+    "name": "themify-icons",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/themify-icons/-/themify-icons-1.0.0.tgz",
+  "_shasum": "216f330ed1b9c3fdc8e675655e189a0b7ecb1c5c",
+  "_shrinkwrap": null,
+  "_spec": "themify-icons",
+  "_where": "F:\\Content\\Raw Task",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/aastrong/themify-icons.scss/issues"
+  },
+  "dependencies": {},
+  "description": "Themify Icons SCSS",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "216f330ed1b9c3fdc8e675655e189a0b7ecb1c5c",
+    "tarball": "https://registry.npmjs.org/themify-icons/-/themify-icons-1.0.0.tgz"
+  },
+  "gitHead": "6cfdf6a2a99fb3dfbc5dce1405c8bc5dfd5cc6f6",
+  "homepage": "https://github.com/aastrong/themify-icons.scss#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "melbourne2991",
+      "email": "xxxxxxx@gmail.com"
+    }
+  ],
+  "name": "themify-icons",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aastrong/themify-icons.scss.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
